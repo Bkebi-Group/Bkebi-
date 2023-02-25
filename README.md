@@ -1,2 +1,2 @@
 # Bkebi-
-Bkebi MenuBind 目前两种GC都适用
+Bkebi MenuBind  目前BK AC都适用
